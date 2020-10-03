@@ -1,0 +1,6 @@
+12/1/17
+
+This folder contains the iterations of manual edits I made to the excel sheets. The final version that is used in the next folder is Location_Table_Draft_0.0_091417.xls.
+
+UPDATE
+1/16/18 changed the name of the file folder to 1 Coordinate Cleaning, since `1 Data Cleaning` wasn't specific enough.  
